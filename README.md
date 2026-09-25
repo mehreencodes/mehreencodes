@@ -1,36 +1,37 @@
 <div align="center">
-  <h1>🚀 React.js & Web Developer</h1>
+  <h1>Hi, I'm Mehreen Khalid 👋</h1>
+  <p><b>React.js & Website Developer</b></p>
   
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-df259c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=df259c" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/mehreenkhaliddev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:webdevhub67@gmail.com"><img src="https://img.shields.io/badge/Email-df259c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://my-portfolio-five-sandy-18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=df259c" alt="Portfolio"/></a>
   </p>
 
-  <p><b>React.js Developer | Full Stack Web Developer</b></p>
   <p>📍 Pakistan</p>
 </div>
 
 ---
 
-### 💫 About Me
-> *Building fast, responsive, and clean websites with stunning visual hierarchy and modern user experiences.*
+### About Me
 
-I'm a passionate **React.js & Web Developer** specializing in crafting high-performance landing pages, web applications, and custom digital solutions for businesses like salons, clinics, real estate, and retail brands.
+I focus on building clean, fast, and responsive websites using **React.js** and **JavaScript**. Whether it’s a landing page for a business or a custom web app, I care deeply about good design, proper spacing, typography, and visual hierarchy.
 
----
-
-### ⚡ What I Bring to the Table
-
-| 💻 Web Development | 🎨 UI/UX & Layout Design | 🚀 Modern Tech Stack |
-| :---: | :---: | :---: |
-| Clean, fast & responsive web apps using React.js | Pixel-perfect layout, typography & spacing | Full-stack solutions tailored for local businesses |
+While my main professional focus is frontend development and client websites, I also have full-stack experience to build end-to-end solutions when needed.
 
 ---
 
-### 🛠️ Tech Arsenal
+### What I Do
 
-#### **Frontend Development**
+* **React.js & Frontend:** Fast, modern, and fully responsive user interfaces.
+* **Website Development:** Custom designs for salons, clinics, real estate, stores, and local businesses.
+* **Full-Stack Projects:** Practical web applications using clean architecture.
+
+---
+
+### Tech Stack
+
+#### **Frontend & Design**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -49,10 +50,11 @@ I'm a passionate **React.js & Web Developer** specializing in crafting high-perf
 
 ---
 
-### 🔥 Featured Projects
-- **[Estate Haven]** — Premium Real Estate website with modern responsive UI/UX.
-- **[Medicare Healthcare]** — Responsive healthcare services web app.
-- **[Khata-pro]** — Smart ledger/bookkeeping web tool.
+### Featured Work
+
+* **Estate Haven** — Premium real estate website designed with a focus on clean layout and responsive user experience.
+* **MediCare Healthcare** — Responsive healthcare service application.
+* **Khata-pro** — Business management & digital ledger tool.
 
 ---
 
